@@ -1,0 +1,12 @@
+audio_mic_node_mems.c:59:10:AUDIO_DFSDM_MEMS_MicInit	32	static
+audio_mic_node_mems.c:99:7:AUDIO_IN_HalfTransfer_CallBack	8	static
+audio_mic_node_mems.c:113:7:AUDIO_IN_TransferComplete_CallBack	8	static
+audio_mic_node_mems.c:128:16:AUDIO_MicDeInit	24	static
+audio_mic_node_mems.c:154:16:AUDIO_MicStart	24	static
+audio_mic_node_mems.c:174:16:AUDIO_MicStop	24	static
+audio_mic_node_mems.c:194:16:AUDIO_MicChangeFrequency	24	static
+audio_mic_node_mems.c:213:16:AUDIO_MicMute	16	static
+audio_mic_node_mems.c:227:16:AUDIO_MicSetVolume	24	static
+audio_mic_node_mems.c:245:16:AUDIO_MicGetVolumeDefaultsValues	24	static
+audio_mic_node_mems.c:261:16:AUDIO_MicStartReadCount	16	static
+audio_mic_node_mems.c:282:18:AUDIO_MicGetLastReadCount	16	static

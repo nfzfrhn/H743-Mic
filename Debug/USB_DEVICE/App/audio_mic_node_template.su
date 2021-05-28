@@ -1,0 +1,10 @@
+audio_mic_node_template.c:52:10:TEMPLATE_AUDIO_MicInit	32	static
+audio_mic_node_template.c:86:16:TEMPLATE_AUDIO_MicDeInit	24	static
+audio_mic_node_template.c:112:16:TEMPLATE_AUDIO_MicStart	24	static
+audio_mic_node_template.c:132:16:TEMPLATE_AUDIO_MicStop	24	static
+audio_mic_node_template.c:152:16:TEMPLATE_AUDIO_MicChangeFrequency	16	static
+audio_mic_node_template.c:165:16:TEMPLATE_AUDIO_MicMute	16	static
+audio_mic_node_template.c:179:16:TEMPLATE_AUDIO_MicSetVolume	24	static
+audio_mic_node_template.c:193:16:TEMPLATE_AUDIO_MicGetVolumeDefaultsValues	24	static
+audio_mic_node_template.c:209:16:TEMPLATE_AUDIO_MicStartReadCount	16	static
+audio_mic_node_template.c:220:18:TEMPLATE_AUDIO_MicGetLastReadCount	16	static

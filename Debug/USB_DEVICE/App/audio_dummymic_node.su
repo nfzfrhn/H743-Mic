@@ -1,0 +1,8 @@
+audio_dummymic_node.c:54:10:AUDIO_DUMMY_MicInit	32	static
+audio_dummymic_node.c:85:16:AUDIO_MicDeInit	24	static
+audio_dummymic_node.c:110:16:AUDIO_MicStart	24	static
+audio_dummymic_node.c:129:16:AUDIO_MicStop	24	static
+audio_dummymic_node.c:148:16:AUDIO_MicChangeFrequency	24	static
+audio_dummymic_node.c:170:16:AUDIO_MicMute	16	static
+audio_dummymic_node.c:186:16:AUDIO_MicSetVolume	24	static
+audio_dummymic_node.c:204:16:AUDIO_MicGetVolumeDefaultsValues	24	static
